@@ -2,12 +2,12 @@
 A Full-Stack GitHub-like platform built to replicate core features such as repository management, user authentication, and code browsing with a modern UI.
 
 📌 Features  
-🔐 User Authentication (Login / Signup)  
-📁 Create & Manage Repositories    
-🔎 Search repositories and users  
-⭐ Star repositories    
-👤 User profile management
-📱 Responsive UI (Mobile + Desktop)      
+ User Authentication (Login / Signup)  
+ Create & Manage Repositories    
+ Search repositories and users  
+ Star repositories    
+ User profile management
+ Responsive UI (Mobile + Desktop)      
 
 
 🛠️ Tech Stack  
