@@ -26,7 +26,7 @@ const Login = () => {
     setLoading(true);
 
     try {
-      const res = await axios.post("https://my-github-backend-y6vo.onrender.com/login", {
+      const res = await axios.post("https://github-clone-scsa.onrender.com/login", {
         email: email.trim(),
         password: password.trim(),
       });

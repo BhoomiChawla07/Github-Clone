@@ -5,7 +5,7 @@ import { useAuth } from '../../authContext';
 import ContributionsHeatmap from './ContributionsHeatmap';
 import './Profile.css';
 
-const API_BASE = import.meta.env.VITE_API_URL || 'https://my-github-backend-y6vo.onrender.com';
+const API_BASE = import.meta.env.VITE_API_URL || 'https://github-clone-scsa.onrender.com';
 
 const formatDate = (date) => date.toISOString().slice(0, 10);
 

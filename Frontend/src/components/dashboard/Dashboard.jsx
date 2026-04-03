@@ -7,7 +7,7 @@ import RepoCard from './RepoCard';
 import NewRepoModal from './NewRepoModal';
 import './Dashboard.css';
 
-const API_BASE = import.meta.env.VITE_API_URL || 'https://my-github-backend-y6vo.onrender.com';
+const API_BASE = import.meta.env.VITE_API_URL || 'https://github-clone-scsa.onrender.com';
 
 const Dashboard = () => {
   const navigate = useNavigate();

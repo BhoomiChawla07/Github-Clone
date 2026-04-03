@@ -28,7 +28,7 @@ const SignUp = () => {
     setLoading(true);
 
     try {
-      const res = await axios.post("https://my-github-backend-y6vo.onrender.com/signup", {
+      const res = await axios.post("https://github-clone-scsa.onrender.com/signup", {
         username: username.trim(),
         email: email.trim(),
         password: password.trim(),
